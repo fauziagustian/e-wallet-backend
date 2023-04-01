@@ -47,18 +47,6 @@
    Response :
 
 
-## Criteria
-* Using Golang framework, feel free to use any framework (gin, echo, etc.)
-* Preferably apply the design pattern
-* Preferably apply any authentication (token, jwt, Auth User, etc)
-* You can use any database (SQL, NoSQL, etc)
-* Unit Testing is a plus point
-
-
-## Collect
-* Please submit the test no more than 3 days after receiving this test
-* Please zip the test when you have done or you can send the git URL
-* Dont forget to give the instructions to run your code using Readme.md 
 
 
 Running apps :
